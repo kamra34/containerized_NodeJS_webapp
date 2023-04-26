@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-webapp-container",
+  "version": "1.0.0",
+  "description": "A simple Node.js webapp in a container",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
